@@ -5,4 +5,6 @@ def find_average(values) -> float:
     return result / len(values)
 
 
-print("average", find_average([5, 6, 7, 8]))
+print("Oi m8, your average is: ", find_average([5, 6, 7, 8]))
+
+
